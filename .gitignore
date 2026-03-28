@@ -1,0 +1,20 @@
+# секи
+.env
+config.json
+*.session
+*.session-journal
+
+# бд
+*.db
+*.sqlite
+*.sqlite3
+
+# мус
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# логи
+*.log
